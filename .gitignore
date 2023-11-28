@@ -162,3 +162,9 @@ cython_debug/
 *.csv
 *.html
 *.txt
+*.gz
+*.pickle
+*.png
+*.pkl
+*.DS_Store
+*raw
